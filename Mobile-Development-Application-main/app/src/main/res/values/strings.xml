@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Task Project</string>
+    <string name="Add_Task">Add Task"</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="task_description_hint">Task Description</string>
+    <string name="save_task">Save Task</string>
+    <string name="enter_location">Enter location</string>
+    <string name="view_task">View Tasks Not Completed</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="view_all_task">View all Tasks</string>
+    <string name="save_changes">Save Changes</string>
+
+
+</resources>
